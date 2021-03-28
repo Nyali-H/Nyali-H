@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nyali-H
+- 👋 Hi, I’m @Nyali-H (Harris)
 - 👀 I’m interested in how Analytics and Insight directly influence business strategy, product design, pricing, quality, investments and much more
 - 🌱 I’m currently learning R and Julia
 - 💞️ I’m looking to collaborate on Data Science and optimization projects
